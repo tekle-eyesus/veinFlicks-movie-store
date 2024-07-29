@@ -2,7 +2,6 @@ import { FaGithub } from "react-icons/fa";
 import { AiOutlineTwitter, AiFillYoutube } from "react-icons/ai";
 import { FaLinkedin } from "react-icons/fa";
 import mainLogo from "./../assets/images/mylogo.png";
-import "./footer.css";
 
 function Footer() {
   const iconsTab = [
